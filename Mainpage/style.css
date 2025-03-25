@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+h1{
+    font-size: 50px;
+}
+
 body{
     background-color: gray;
     height: 100vh;
@@ -17,7 +21,6 @@ body img{
     max-width: 100%;
     height: auto;
     border-radius: 10px;
-    padding-left: 40px;
 }
 
 button {
@@ -29,4 +32,5 @@ button {
     color: white;
     border-radius: 5px;
     font-size: 60px;
+    cursor: pointer;
 }
